@@ -30,7 +30,7 @@ The project builds a **Unified E-Commerce Data Lakehouse** using **Azure Databri
 ---
 
 ## 🧱 **Data Architecture**
-![img.png](resources/project_architecture.png)
+![img.png](https://drive.google.com/file/d/1187azAMAJ57VqWjBcEdzaNGvgBdstjyc/view?usp=drive_link)
 
 ## 🗂 **Folder Structure** (ADLS Container: `ecomm-raw-data`)
 
@@ -80,7 +80,7 @@ ecomm-raw-data/
 
 Power BI connects to the **Gold layer** tables via **Databricks SQL Warehouse** for visual insights.
 
-![img.png](resources/ecommerce_analytics_report.jpg)
+![img.png](https://drive.google.com/file/d/1KUOEFo36BTVcmAUAyYAJi-HjGt2uti4w/view?usp=drive_link)
 ---
 
 ## ✅ **Outcomes**
